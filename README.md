@@ -1,4 +1,4 @@
-# A simple program Gaussian-Naive-Bayes to classify the Spambase data from the UCI ML repository, which can be found here:  
+# A simple Gaussian-Naive-Bayes to classify the Spambase data from the UCI ML repository, which can be found here:  
 
 https://archive.ics.uci.edu/ml/datasets/spambase 
 
